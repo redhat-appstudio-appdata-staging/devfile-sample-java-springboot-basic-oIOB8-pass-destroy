@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/mleonova-tenant/devfile-sample-java-springboot-basic/devfile-sample-java-springboot-basic@sha256:dd0adf58446a3e8ddf5fe84f6bb31df516ded45ffca420288006eaebc17d72d7
+      - image: quay.io/redhat-user-workloads-stage/mleonova-tenant/devfile-sample-java-springboot-basic/devfile-sample-java-springboot-basic@sha256:caed06fd14dd7902f6d6d79d3b4c6701790eb26e69be0b3e0b154646ff885398
         name: my-java-springboot
         resources: {}
 status: {}
